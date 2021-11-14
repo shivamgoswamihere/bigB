@@ -59,9 +59,9 @@ It is completely responsive website, to provide smooth experience...😎
 <div align="center">
 
 
-<a  href="https://www.linkedin.com/in/shivam-garg-15675720a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/Shivams_twt" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:shivanshagarwal2020@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://www.linkedin.com/in/shivamgoswami/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/ShivamGoswami_" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:shivamg1008@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </div>
 
@@ -75,12 +75,10 @@ It is completely responsive website, to provide smooth experience...😎
 
 <div align="center">
 
-<a href="https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e"><img src="https://sloc.xyz/github/The-Shivam-garg/BigB-E-learn-Websit-e"    alt="LOC" /></a>
-<a href="https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e"><img src="https://img.shields.io/github/stars/The-Shivam-garg/BigB-E-learn-Websit-e" alt="Stars Badge" /></a>
-<a href="https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e/network/members"><img src="https://img.shields.io/github/forks/The-Shivam-garg/BigB-E-learn-Websit-e" alt="Forks Badge" /></a>
-<a href="https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/The-Shivam-garg/BigB-E-learn-Websit-e?color=2b9348" ></a>
+<a href="https://github.com/shivamgoswamihere/bigB"><img src="https://sloc.xyz/github/The-Shivam-garg/BigB-E-learn-Websit-e"    alt="LOC" /></a>
+<a href="https://github.com/shivamgoswamihere/bigB"><img src="https://img.shields.io/github/stars/The-Shivam-garg/BigB-E-learn-Websit-e" alt="Stars Badge" /></a>
+<a href="https://github.com/shivamgoswamihere/bigB/network"><img src="https://img.shields.io/github/forks/The-Shivam-garg/BigB-E-learn-Websit-e" alt="Forks Badge" /></a>
+<a href="https://github.com/shivamgoswamihere/bigB/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/The-Shivam-garg/BigB-E-learn-Websit-e?color=2b9348" ></a>
 
-[![GitHub license](https://img.shields.io/github/license/The-Shivam-garg/BigB-E-learn-Websit-e?logo=github)](https://github.com/The-Shivam-garg/BigB-E-learn-Websit-e/blob/master/LICENSE)
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 </div>
